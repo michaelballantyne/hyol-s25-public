@@ -1,0 +1,1 @@
+("8.14" tarm64osx ("557aad67e907910b5fc07941b2022135cce9584f" . "65d9004d904afea1362735981b71fcf5e5211fdf") (collects #"csv-reading" #"main.rkt") (collects #"drracket" #"private" #"drracket-errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
